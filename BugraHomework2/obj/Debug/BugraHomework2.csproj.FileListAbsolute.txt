@@ -1,0 +1,11 @@
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\obj\Debug\BugraHomework2.csproj.AssemblyReference.cache
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\obj\Debug\BugraHomework2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\obj\Debug\BugraHomework2.csproj.CoreCompileInputs.cache
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\bin\Debug\BugraHomework2.exe.config
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\bin\Debug\BugraHomework2.exe
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\bin\Debug\BugraHomework2.pdb
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\obj\Debug\BugraHomework2.exe
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\obj\Debug\BugraHomework2.pdb
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\bin\Debug\MathNet.Numerics.dll
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\bin\Debug\MathNet.Numerics.xml
+C:\Users\Yasir\source\repos\BugraHomework2\BugraHomework2\obj\Debug\BugraHomework2.csproj.CopyComplete
